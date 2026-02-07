@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi, I’m Thanh 👋
 
-<!--
-**ThanhC19/ThanhC19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering graduate based in the UK
+💻 Aspiring Software Engineer focused on building real-world systems
+🚀 Currently sharpening my skills through intensive coding practice and projects
 
-Here are some ideas to get you started:
+👨‍💻 What I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Improving my problem-solving and algorithm skills
+
+Building practical projects to strengthen my full-stack development
+
+Preparing for a software engineering career with strong foundations in clean code and system design
+
+🛠 Tech & Tools
+
+Languages
+
+C#
+
+JavaScript (actively improving)
+
+HTML & CSS
+
+Tools & Technologies
+
+Git & GitHub
+
+.NET
+
+REST APIs
+
+SQL / Databases
+
+Visual Studio & VS Code
+
+💡 What I Care About
+
+Writing clean, maintainable code
+
+Understanding how systems work
+
+Continuous learning and pushing beyond my comfort zone
+
+📫 Contact Me
+
+Email: tchu3911@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/thanh-chu/
