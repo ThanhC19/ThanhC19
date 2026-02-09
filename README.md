@@ -1,49 +1,43 @@
-Hi, I’m Thanh 👋
+# Hi, I’m Thanh 👋
 
-🎓 Software Engineering graduate based in the UK
-💻 Aspiring Software Engineer focused on building real-world systems
-🚀 Currently sharpening my skills through intensive coding practice and projects
+**Software Engineering Graduate | UK Based** 💻  
+Aspiring Software Engineer focused on building robust, real-world systems.  
+🚀 Currently sharpening my skills through intensive coding practice and full-stack projects.
 
-👨‍💻 What I’m Working On
+---
 
-Improving my problem-solving and algorithm skills
+## 🛠 What I’m Working On
+* **Problem Solving:** Refining logic and algorithmic efficiency.
+* **Full-Stack Development:** Integrating .NET backends with modern frontends.
+* **Software Foundations:** Deepening knowledge of clean code and system design.
 
-Building practical projects to strengthen my full-stack development
+---
 
-Preparing for a software engineering career with strong foundations in clean code and system design
+## ⚒️ Tech & Tools
 
-🛠 Tech & Tools
+### 🌐 Frontend
+* **React** ⚛️ (Building interactive and component-based UIs)
+* **JavaScript** (ES6+)
+* **HTML5 & CSS3**
 
-Languages
+### ⚙️ Backend & Logic
+* **C# / .NET**
+* **REST APIs**
+* **SQL / Databases**
 
-C#
+### 🧰 Development Tools
+* **Version Control:** Git & GitHub
+* **IDEs:** Visual Studio & VS Code
 
-JavaScript (actively improving)
+---
 
-HTML & CSS
+## 💡 What I Care About
+* Writing **clean, maintainable code**.
+* Understanding **system architecture** under the hood.
+* **Continuous learning** and community collaboration.
 
-Tools & Technologies
+---
 
-Git & GitHub
-
-.NET
-
-REST APIs
-
-SQL / Databases
-
-Visual Studio & VS Code
-
-💡 What I Care About
-
-Writing clean, maintainable code
-
-Understanding how systems work
-
-Continuous learning and pushing beyond my comfort zone
-
-📫 Contact Me
-
-Email: tchu3911@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/thanh-chu/
+## 📫 Contact Me
+* **LinkedIn:** [linkedin.com/in/thanh-chu/](https://www.linkedin.com/in/thanh-chu/)
+* **Email:** [tchu3911@gmail.com](mailto:tchu3911@gmail.com)
