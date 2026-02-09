@@ -7,10 +7,9 @@ Aspiring Software Engineer focused on building robust, real-world systems.
 ---
 
 ## 🛠 What I’m Working On
-* **Problem Solving:** Refining logic and algorithmic efficiency.
-* **Full-Stack Development:** Integrating .NET backends with modern frontends.
-* **Software Foundations:** Deepening knowledge of clean code and system design.
-
+* **Problem Solving:** Improving my logic and algorithm skills.
+* **Full-Stack Development:** Building practical projects to strengthen my end-to-end expertise.
+* **Software Foundations:** Deepening my knowledge of clean code and system design.
 ---
 
 ## ⚒️ Tech & Tools
